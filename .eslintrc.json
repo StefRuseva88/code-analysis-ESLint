@@ -1,0 +1,14 @@
+
+{
+    "env": {
+    "browser": true
+    },
+    "extends": ["eslint:recommended", "airbnb"],
+    "parserOptions": {
+    "ecmaVersion": 2023
+    },
+    "rules": {
+    "quotes": ["error", "double"],
+    "semi": ["error", "always"]
+    }
+}
