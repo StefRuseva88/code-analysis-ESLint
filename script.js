@@ -37,6 +37,6 @@ function dvdCollection(dvds) {
     }
   }
 }
-
+// You can replace this script with any other
 // Test the function with the provided example
 dvdCollection(["3", "The Matrix", "The Godfather", "The Shawshank Redemption", "Watch", "Done", "Swap 0 1"]);
