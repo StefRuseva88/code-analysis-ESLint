@@ -1,2 +1,3 @@
 # Code-Analysis-ESLint 
-This is a tests project from SoftUni QA Back-End Test Automation/March2024 course.
+This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
+
