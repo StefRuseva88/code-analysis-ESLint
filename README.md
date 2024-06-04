@@ -33,4 +33,11 @@ Helps write cleaner and more readable JavaScript code.
 
 - This repository demonstrates ESLint configuration and usage with the Script.js application file.
 - The specific ESLint rules and configurations can be customized based on your project's requirements.
+### Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+For any questions or suggestions, please open an issue in the repository.
