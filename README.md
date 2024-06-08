@@ -1,6 +1,6 @@
 # Code-Analysis-ESLint 
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
-This repository demonstrates the use of ESLint, a popular static code analysis tool for JavaScrip.
+### This repository demonstrates the use of ESLint, a popular static code analysis tool for JavaScrip.
 ---
 
 ### Project Purpose:
