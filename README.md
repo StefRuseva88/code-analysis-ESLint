@@ -20,7 +20,20 @@ ESLint is a static code analysis tool that analyzes your JavaScript code without
 
 The specific instructions for running ESLint will depend on your project setup. Here are some common approaches:
 
-- Command Line: You can install ESLint globally and run it from the command line using the eslint command followed by the path to your JavaScript files.
+- Command Line: You can install ESLint globally and run it from the command line using the `eslint` command followed by the path to your JavaScript files.
+  1. **Install ESLint globally:**
+     Open your terminal or command prompt and run the following command:
+     
+     ```sh
+     npm install -g eslint
+     ```
+  2. **Run ESLint:**
+     After installing ESLint globally, you can run it from the command line using the eslint command followed by the path to your JavaScript files:
+
+     ```sh
+     eslint path/to/your/javascript/files
+     ```
+     
 - Code Editor Integration: Many popular code editors offer plugins or extensions for ESLint integration. These integrations can provide real-time feedback on potential issues as you write your code.
   
 ### Benefits of ESLint:
