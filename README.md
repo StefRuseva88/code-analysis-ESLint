@@ -1,7 +1,5 @@
 # Code-Analysis-ESLint 
 ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 ---
