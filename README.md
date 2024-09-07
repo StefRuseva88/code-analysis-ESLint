@@ -1,4 +1,4 @@
-# Code-Analysis-ESLint
+# Code Analysis with ESLint
 
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ESLint](https://img.shields.io/badge/Code%20Quality-ESLint-4B32C3.svg)](https://eslint.org/)
